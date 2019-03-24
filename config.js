@@ -25,7 +25,7 @@ module.exports = {
   author: {
     name: "Roberto Rodriguez",
     photo: "/photo.jpg",
-    bio: "sds dsd sdsddsddddffdffffffffffffffffff",
+    bio: "sds dsd sdsddsd dddddffdffffffffffffffffff",
     contacts: {
       email: "#",
       telegram: "#",
