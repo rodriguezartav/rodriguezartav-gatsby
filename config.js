@@ -3,7 +3,7 @@
 module.exports = {
   url: "https://soyayan.com",
   title: "Soy Ayan",
-  subtitle: "tetjfjfjfjfjfjffjfjfj"d,
+  subtitle: "tetjfjfjfjfjfjffjfjfj",
   copyright: "© All rights reserved.",
   disqusShortname: "",
   postsPerPage: 1,
